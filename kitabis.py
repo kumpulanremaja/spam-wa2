@@ -1,6 +1,6 @@
 #-*- coding: utf8 -*-
 #ya maap kodingam we berantakan :)>
-
+import requests,random,time,os,sys
 req=requests.Session()
 
 r='\033[91m'
@@ -10,9 +10,9 @@ w='\033[0m'
 __banner__ = ('''
   spam kita.bisa gan :V
 %s ###############################
- # %scode : Maoundis             %s#
+ # %scode : Kumpulanremaja            %s#
  # %stype : wa/email             %s#
- # %steam : xiuz.sec             %s#
+ # %steam : kumpulanremaja.com             %s#
  ###############################%s
     ''' % (c,w,c,w,c,w,c,w))
 
