@@ -1,7 +1,6 @@
 #-*- coding: utf8 -*-
 #ya maap kodingam we berantakan :)>
 
-import requests,random,time,os,sys
 req=requests.Session()
 
 r='\033[91m'
